@@ -63,6 +63,6 @@ new_git_repository(
     name = "toolkit_relic",
     build_file = "//bazel:BUILD.relic",
     remote = "https://github.com/relic-toolkit/relic.git",
-    commit = "3f616ad64c3e63039277b8c90915607b6a2c504c",
+    commit = "d7dcb22846e32172bb94111823bd3358ec9a49aa",
     shallow_since = "1581106153 -0800",
 )
